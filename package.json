@@ -1,6 +1,6 @@
 {
   "name": "multi-exec-async",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Closure for Redis client multi exec async",
   "main": "index.js",
   "scripts": {
